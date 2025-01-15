@@ -1,0 +1,17 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    border: solid 12px black;
+    margin: 5% 10%;
+}
+
+.item {
+    font-size: 24px;
+    color: white;
+    font-weight: 700;
+    background-color: rgb(178, 130, 255);
+    border: solid 8px rgb(134, 59, 255);
+    padding: 2% 1%;
+}
